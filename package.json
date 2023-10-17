@@ -1,0 +1,14 @@
+{
+  "name": "belajar-typescript",
+  "private": true,
+  "version": "0.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "build": "tsc",
+    "execute": "tsc && node lib/main.js",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

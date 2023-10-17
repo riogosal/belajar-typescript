@@ -1,0 +1,1 @@
+{"version":3,"file":"car-alternative.js","sourceRoot":"","sources":["../../src/lesson1/car-alternative.ts"],"names":[],"mappings":";;;AAAA,MAAa,GAAG;IACd,IAAI,CAAS;IACb,KAAK,CAAS;IAEd,YAAY,IAAY,EAAE,KAAa;QACrC,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;QACjB,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;IACrB,CAAC;IAED,KAAK;QACH,OAAO,CAAC,GAAG,CAAC,gBAAgB,CAAC,CAAC;IAChC,CAAC;CACF;AAZD,kBAYC"}
